@@ -1,0 +1,38 @@
+NBSommets=12
+NBArcs=20
+Sommets=[
+Numero=1
+Numero=2
+Numero=3
+Numero=4
+Numero=5
+Numero=6
+Numero=7
+Numero=8
+Numero=9
+Numero=10
+Numero=11
+Numero=12
+]
+Arcs=[
+Debut=1, Fin=2, Poids=13
+Debut=1, Fin=3, Poids=6
+Debut=2, Fin=3, Poids=7
+Debut=2, Fin=4, Poids=1
+Debut=3, Fin=4, Poids=14
+Debut=3, Fin=5, Poids=8
+Debut=3, Fin=8, Poids=20
+Debut=4, Fin=5, Poids=9
+Debut=4, Fin=6, Poids=3
+Debut=5, Fin=10, Poids=18
+Debut=5, Fin=6, Poids=2
+Debut=7, Fin=8, Poids=15
+Debut=7, Fin=9, Poids=5
+Debut=7, Fin=10, Poids=19
+Debut=7, Fin=11, Poids=10
+Debut=8, Fin=10, Poids=17
+Debut=9, Fin=11, Poids=11
+Debut=10, Fin=11, Poids=16
+Debut=10, Fin=12, Poids=4
+Debut=11, Fin=12, Poids=12
+]

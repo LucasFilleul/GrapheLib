@@ -1,0 +1,7 @@
+TupeMatrice=double
+NBLignes=2
+NBColonnes=2
+Matrice=[
+4 4
+4 4
+]
